@@ -1,0 +1,16 @@
+# Table of contents
+
+* [🔖 Purpose](README.md)
+* [👥 Audience](audience.md)
+* [🧾 State of Current Nomenclature](state-of-current-nomenclature.md)
+* [🎖️ Standard](standard.md)
+* [🌈 Themes](themes.md)
+* [🤹 Applications](applications/README.md)
+  * [👕 Apparel](applications/apparel/README.md)
+    * [👙 Undergarments](applications/apparel/undergarments.md)
+  * [📺 Appliances](applications/appliances.md)
+  * [🧱 Building Materials](applications/building-materials/README.md)
+    * [🧴 Adhesives](applications/building-materials/adhesives.md)
+    * [🚽 Sanitaryware](applications/building-materials/sanitaryware.md)
+    * [🚿 Sanitary Fittings](applications/building-materials/sanitary-fittings.md)
+    * [❇️ Tiles](applications/building-materials/tiles.md)
