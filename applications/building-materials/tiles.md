@@ -37,7 +37,11 @@ Describes the **material appearance** or visual finish. This must be selected fr
 
 ***
 
-### 🌈 Approved Colors (Alphabetical)
+### 🌈 Color
+
+Specifies the color of the design. Must follow standard color conventions (single English word, max 8 characters).
+
+Example colors:
 
 * Aqua
 * Ash
@@ -60,7 +64,6 @@ Describes the **material appearance** or visual finish. This must be selected fr
 * Greige
 * Grey
 * Ivory
-* Mix
 * Olive
 * Orange
 * Pearl
@@ -73,8 +76,15 @@ Describes the **material appearance** or visual finish. This must be selected fr
 
 ### 💡 Examples
 
-* Karakor 60x120 Marble White
-* Ash 60x60 Concrete Grey
-* Travertine 30x60 3D Beige
-* Slate 30x60 3D Charcoal
-
+| Old Name                               | New Name                     |
+| -------------------------------------- | ---------------------------- |
+| FL MARMI ORION SS 600X1200 WT L        | Orion 60x120 Marble White    |
+| TL SLATE KHAKI 3D LT 600X1200 L        | Slate 60x120 3D Khaki        |
+| TL SLATE IVORY 3D LT 600X1200 L        | Slate 60x120 3D Ivory        |
+| TL SLATE ASH 3D LT 600X1200 L          | Slate 60x120 3D Ash          |
+| FL MARMI MARFIL SM 600X1200 IV L       | Marfil 60x120 Marble Ivory   |
+| FL MARMI MIDLANDS SS 600X1200 GR L     | Midlands 60x120 Marble Grey  |
+| FL SKYLINE PARIS VL RKLT 600X1200GR L  | Paris 60x120 Concrete Grey   |
+| FL MARMI NAXOS SS 600X1200 GR L        | Naxos 60x120 Marble Grey     |
+| FL MARMI VOLAKAS SS 600X1200 WT L      | Volakas 60x120 Marble White  |
+| FL SKYLINE ONTARIO SM 600X1200 GR L CP | Ontario 60x120 Concrete Grey |

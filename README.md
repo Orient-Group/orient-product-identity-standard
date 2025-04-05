@@ -1,21 +1,30 @@
-# 🔖 Purpose
+---
+description: Defining the Identity of Our Products
+---
 
-## Orient Nomenclature Standard (ONS) Overview
+# 📘 Introduction
 
-The Orient Nomenclature Standard (ONS) is designed to standardize product naming across the Orient Group. It aims for simplicity, consistency, and clarity in all interactions, both internal and customer-facing.
+The **Orient Product Identity Standard (OPIS)** is a unified framework that defines how Orient products are named, categorized, and communicated — across all divisions, channels, and customer touchpoints.
 
-### Objectives
+Where past naming conventions were fragmented and inconsistent, OPIS establishes a consistent structure that is easy to read, recall, and scale — not only internally but also for dealers and end customers.
 
-* **Enhance Brand Integrity:** Create a cohesive brand image through unified naming.
-* **Improve Product Clarity:** Ensure product names are straightforward for users.
-* **Foster Cross-Functional Alignment:** Enable seamless communication and coordination across divisions.
+OPIS is more than a naming guide. It is a **language system** that shapes how products are presented in:
 
-### Implementation
+* ERP and inventory systems
+* Sales and dealer catalogs
+* Packaging and labels
+* E-commerce listings and marketing material
 
-ONS is applicable to current product divisions including:
+By aligning these areas, OPIS ensures that every Orient product speaks the same language — one of clarity, simplicity, and brand consistency.
 
-* **Electronics**
-* **Tiles**
-* **Apparel**
+***
 
-While it currently applies to these divisions, the standard is flexible and can extend to future categories, ensuring consistency across all platforms like packaging, catalogs,
+### 🧩 What OPIS Covers
+
+* **Standardized Product Naming Formats**
+* **Approved Terminologies** (for categories, designs, surfaces, colors)
+* **Theming Guidelines** for product collections
+* **Segment-Specific Rules** (tiles, apparel, electronics, etc.)
+* **Smart & Special Feature Encoding**
+
+OPIS ensures that whether it’s a smart air conditioner, a vest, or a faucet — every product speaks **the same visual and verbal language** across every customer and team interaction.

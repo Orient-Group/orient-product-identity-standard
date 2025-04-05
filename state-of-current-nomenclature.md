@@ -7,10 +7,8 @@ Before ONS, each product division at Orient used its own ad hoc naming conventio
 * Errors in product registration, packaging, and listings
 * Difficulty for dealers and end customers to differentiate models
 
-Examples of old formats:
+### Examples of old formats:
 
-* Refrigerator: OR-5535 GL GNNF RD LV
-* Air Conditioner: OS-13MF04 GF-R410-ID
-* Tile: FL MARMI Marble KARAKORAM WHITE WT 600X1200 VL RK
+<table><thead><tr><th width="215.375">Item</th><th>Model</th></tr></thead><tbody><tr><td>Tile</td><td>FL MARMI MARFIL SM 600X1200 IV L</td></tr><tr><td>Air Conditioner</td><td>OS-13MF04 GF-R410-ID</td></tr><tr><td>Refrigerator</td><td>OR-5535 GL GNNF RD LV</td></tr></tbody></table>
 
 These names were hard to read, sell, and manage.

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🔖 Purpose](README.md)
+* [📘 Introduction](README.md)
+* [🎯 Purpose](<README (1).md>)
 * [👥 Audience](audience.md)
 * [🧾 State of Current Nomenclature](state-of-current-nomenclature.md)
 * [🎖️ Standard](standard.md)

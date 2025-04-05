@@ -68,14 +68,14 @@ Describes the **form or styling** of the product.
 
 Specifies the **external finish** of the fitting. Must follow ONS color conventions (single English word, max 8 characters).
 
-| **Approved Colors** |
-| ------------------- |
-| Chrome              |
-| Black               |
-| White               |
-| Brushed             |
-| Rosegold            |
-| Nickel              |
+| Example Colors |
+| -------------- |
+| Chrome         |
+| Black          |
+| White          |
+| Brushed        |
+| Rosegold       |
+| Nickel         |
 
 ***
 
