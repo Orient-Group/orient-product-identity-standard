@@ -12,6 +12,7 @@
   * [📺 Appliances](applications/appliances/README.md)
     * [❄️ Air Conditioners](applications/appliances/air-conditioners.md)
     * [🧊 Refrigerators](applications/appliances/refrigerators.md)
+    * [📺 LED TV](applications/appliances/led-tv.md)
   * [🧱 Building Materials](applications/building-materials/README.md)
     * [🧴 Adhesives](applications/building-materials/adhesives.md)
     * [🚽 Sanitaryware](applications/building-materials/sanitaryware.md)
