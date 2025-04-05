@@ -21,7 +21,7 @@ The Series Name defines the product family or collection. It must be a real Engl
 
 **Examples:** Classic, Edge, Amber, Zen, Mist, Crest
 
-### **🔸 Theming**
+#### **🔸 Theming**
 
 Series Names often follow a thematic structure that enhances marketing communication. The **Signature Nature** theme is commonly applied in the AC category, representing freshness, elegance, and tranquility.
 
