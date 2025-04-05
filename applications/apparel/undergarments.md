@@ -8,16 +8,32 @@ The apparel segment under Orient includes essential undergarments such as underw
 
 ### 📊 Standard Format
 
-> **Category + Size + Design + Color**
+> **Series + Size + Design + Color**
 
 Each product must follow this four-part structure to maintain clarity and consistency.
 
 ***
 
-### 🏷️ Category
+### 🏷️ **Series**
 
 Defines the **product line or collection name**, such as performance-based, comfort, or premium styles.\
 **Examples:** Core, Flexi, Active, Essential, Comfort, Bliss, Contour
+
+#### 🎭 Proposed Theme: Nature-Inspired Comfort
+
+This theme draws from natural elements that reflect comfort, simplicity, and everyday elegance—ideal for undergarments.
+
+**For Women (Botanical):**
+
+* Bliss, Lily, Ivy, Bloom, Daisy, Fern, Petal\
+  Used in: Bras, Panties
+
+**For Men (Natural Forces):**
+
+* Core, Drift, Stone, Flint, Wave, Ash\
+  Used in: Underwear, Vests
+
+These names create emotional value and enable cohesive packaging and branding narratives such as “Soft as Petal” or “Strong as Stone.”
 
 ***
 
@@ -49,24 +65,6 @@ Specifies the **visual appearance** or **print style** of the garment.
 
 Color must be selected from the approved ONS color list.\
 **Examples:** Black, White, Grey, Navy, Maroon, Olive, Charcoal, Beige
-
-***
-
-### 🎭 Proposed Theme: Nature-Inspired Comfort
-
-This theme draws from natural elements that reflect comfort, simplicity, and everyday elegance—ideal for undergarments.
-
-**For Women (Botanical):**
-
-* Bliss, Lily, Ivy, Bloom, Daisy, Fern, Petal\
-  Used in: Bras, Panties
-
-**For Men (Natural Forces):**
-
-* Core, Drift, Stone, Flint, Wave, Ash\
-  Used in: Underwear, Vests
-
-These names create emotional value and enable cohesive packaging and branding narratives such as “Soft as Petal” or “Strong as Stone.”
 
 ***
 

@@ -8,16 +8,23 @@ Sanitaryware includes ceramic bathroom fixtures such as wash basins, toilets (co
 
 ### 📊 Standard Format
 
-> **Category + Size + Design + Color**
+> **Series + Size + Design + Color**
 
 This four-part structure ensures consistency across all internal systems, packaging, and marketing materials.
 
 ***
 
-### 🏷️ Category
+### 🏷️ **Series**
 
 Defines the product family or series name. This must be a proper English word (max 8 characters) and should reflect the character or function of the design series.\
 **Examples:** Nova, Curve, Flow, Crest, Zen, Glide
+
+#### 🎭 Theme: Functional Elegance
+
+Sanitaryware naming may follow the **Functional Elegance** theme — soft, fluid, and intuitive names that reflect modernity and comfort. The theme also helps establish cohesive communication in packaging and branding.
+
+**Examples of Themed Category Names:**\
+Nova, Zen, Crest, Flow, Glide
 
 ***
 
@@ -58,15 +65,6 @@ Represents the shape or styling of the product. The design must be a proper Engl
 Defines the external color of the product. Use only approved ONS color names.
 
 **Examples:** White, Ivory, Biscoti, Grey, Bone, Black
-
-***
-
-### 🎭 Theme: Functional Elegance
-
-Sanitaryware naming may follow the **Functional Elegance** theme — soft, fluid, and intuitive names that reflect modernity and comfort. The theme also helps establish cohesive communication in packaging and branding.
-
-**Examples of Themed Category Names:**\
-Nova, Zen, Crest, Flow, Glide
 
 ***
 

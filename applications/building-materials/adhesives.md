@@ -8,13 +8,13 @@ This segment includes tile adhesives, commonly referred to as tile bond. These a
 
 ### 📊 Standard Format
 
-> **Category + Size + Surface + Color**
+> **Series + Size + Surface + Color**
 
 Each product must follow this four-part structure to align with the core ONS framework.
 
 ***
 
-### 🏷️ Category
+### 🏷️ **Series**
 
 Defines the adhesive product line. Must be a real English word with a maximum of 8 characters. **Examples:** Grip, Bond, Mate, Seal
 

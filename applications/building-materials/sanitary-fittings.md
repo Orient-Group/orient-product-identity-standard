@@ -25,16 +25,23 @@ Each segment follows the same naming structure but may have segment-specific qua
 
 ### 📊 Standard Format
 
-> **Category + Size + Design + Color**
+> **Series + Size + Design + Color**
 
 All products in the sanitary fittings segment follow this 4-part format to ensure consistency across internal systems, retail packaging, and customer-facing materials.
 
 ***
 
-### 🏷️ Category
+### 🏷️ **Series**
 
 Represents the **product family name** or series. This must be a valid English word (max 8 characters) and reflect either a functional attribute or design inspiration.\
 **Examples:** Nova, Crest, Zen, Curve, Pure, Flow
+
+#### 🎭 Theme: Fluid Form
+
+The **Fluid Form** theme emphasizes motion, elegance, and precision — essential qualities of sanitary fittings. Names under this theme are smooth, purposeful, and expressive. This theme enhances brand storytelling across packaging and promotional material.
+
+**Example Category Names under this Theme:**\
+Flow, Zen, Pure, Glide, Crest, Orbit
 
 ***
 
@@ -76,15 +83,6 @@ Specifies the **external finish** of the fitting. Must follow ONS color conventi
 | Brushed        |
 | Rosegold       |
 | Nickel         |
-
-***
-
-### 🎭 Theme: Fluid Form
-
-The **Fluid Form** theme emphasizes motion, elegance, and precision — essential qualities of sanitary fittings. Names under this theme are smooth, purposeful, and expressive. This theme enhances brand storytelling across packaging and promotional material.
-
-**Example Category Names under this Theme:**\
-Flow, Zen, Pure, Glide, Crest, Orbit
 
 ***
 

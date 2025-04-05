@@ -8,13 +8,13 @@ Tiles are used in flooring and wall applications for interior and exterior archi
 
 ### 📊 Standard Format
 
-> **Category + Size + Surface + Color**
+> **Series + Size + Surface + Color**
 
 Each tile product must follow this four-part structure.
 
 ***
 
-### 🏷️ Category
+### 🏷️ **Series**
 
 Represents the **product family name** or **visual theme**. This name must be a simple, English word (max 8 characters) and is typically unique and ownable.\
 \
