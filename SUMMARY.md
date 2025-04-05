@@ -4,7 +4,7 @@
 * [🎯 Purpose](<README (1).md>)
 * [👥 Audience](audience.md)
 * [🧾 State of Current Nomenclature](state-of-current-nomenclature.md)
-* [🎖️ Standard](standard.md)
+* [🧬 Naming Standard Definition](naming-standard-definition.md)
 * [🌈 Themes](themes.md)
 * [🤹 Applications](applications/README.md)
   * [👕 Apparel](applications/apparel/README.md)
