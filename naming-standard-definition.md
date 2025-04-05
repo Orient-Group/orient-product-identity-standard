@@ -12,13 +12,7 @@ The **OPIS framework** ensures every Orient product name is logically structured
 
 <figure><img src=".gitbook/assets/Screenshot 2025-04-05 at 11.52.27 AM.png" alt="" width="563"><figcaption></figcaption></figure>
 
-| Part             | Section        | Purpose                                            |
-| ---------------- | -------------- | -------------------------------------------------- |
-| **Category**     | Human-Readable | Defines the family/series name                     |
-| **Quantifier**   | Human-Readable | Indicates size, capacity, BTU, liter, etc.         |
-| **Design**       | Human-Readable | Reflects material, form, or visual differentiation |
-| **Color**        | Human-Readable | Product finish or visual color (if required)       |
-| **Build Number** | Internal Use   | Optional suffix for versioning, internal tracking  |
+<table><thead><tr><th width="154.296875">Part</th><th width="180.625">Section</th><th>Purpose</th></tr></thead><tbody><tr><td><strong>Category</strong></td><td>Human-Readable</td><td>Defines the family/series name</td></tr><tr><td><strong>Quantifier</strong></td><td>Human-Readable</td><td>Indicates size, capacity, BTU, liter, etc.</td></tr><tr><td><strong>Design</strong></td><td>Human-Readable</td><td>Reflects material, form, or visual differentiation</td></tr><tr><td><strong>Color</strong></td><td>Human-Readable</td><td>Product finish or visual color (if required)</td></tr><tr><td><strong>Build Number</strong></td><td>Internal Use</td><td>Optional suffix for versioning, internal tracking</td></tr></tbody></table>
 
 ***
 
