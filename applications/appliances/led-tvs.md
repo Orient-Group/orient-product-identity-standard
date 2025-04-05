@@ -1,4 +1,4 @@
-# 📺 LED TV
+# 📺 LED TVs
 
 ### 🧩 About Product
 
