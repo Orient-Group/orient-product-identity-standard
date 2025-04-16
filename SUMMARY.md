@@ -8,6 +8,7 @@
 * [🌈 Themes](themes.md)
 * [🤹 Applications](applications/README.md)
   * [👕 Apparel](applications/apparel/README.md)
+    * [👕 Shirts](applications/apparel/shirts.md)
     * [👙 Undergarments](applications/apparel/undergarments.md)
   * [📺 Appliances](applications/appliances/README.md)
     * [❄️ Air Conditioners](applications/appliances/air-conditioners.md)
