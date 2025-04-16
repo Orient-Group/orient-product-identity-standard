@@ -18,6 +18,7 @@
     * [🧼 Washing Machines](applications/appliances/washing-machines.md)
   * [🧱 Building Materials](applications/building-materials/README.md)
     * [🧴 Adhesives](applications/building-materials/adhesives.md)
-    * [🚽 Sanitaryware](applications/building-materials/sanitaryware.md)
+    * [🚽 Sanitaryware](applications/building-materials/sanitaryware/README.md)
+      * [🧼 Wash Basins](applications/building-materials/sanitaryware/wash-basins.md)
     * [🚿 Sanitary Fittings](applications/building-materials/sanitary-fittings.md)
     * [❇️ Tiles](applications/building-materials/tiles.md)
