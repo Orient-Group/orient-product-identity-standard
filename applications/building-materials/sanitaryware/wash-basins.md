@@ -43,7 +43,7 @@ Represents the **physical dimensions** of the basin in **centimeters**:
 
 ***
 
-### 🧱 Design
+### 🖌️ Design
 
 Specifies the **form factor** or **installation type**.
 
