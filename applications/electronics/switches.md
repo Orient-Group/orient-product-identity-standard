@@ -60,13 +60,12 @@ Used to define technical configurations for manufacturing, supply chain, and int
 
 #### ✅ Major – Interaction Type
 
-|                  |          |
-| ---------------- | -------- |
-| **Interaction**  | **Code** |
-| Relay (On/Off)   | 1        |
-| Dimmer           | 2        |
-| Scene Controller | 3        |
-| Multi-Function   | 4        |
+| Interaction      | Code |
+| ---------------- | ---- |
+| Relay (On/Off)   | 1    |
+| Dimmer           | 2    |
+| Scene Controller | 3    |
+| Multi-Function   | 4    |
 
 #### ✅ Minor – Smart Type (Protocol)
 
