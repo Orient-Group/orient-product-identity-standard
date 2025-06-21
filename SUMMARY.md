@@ -27,3 +27,5 @@
       * [🚹 Urinal](applications/building-materials/sanitaryware/urinal.md)
     * [🚿 Sanitary Fittings](applications/building-materials/sanitary-fittings.md)
     * [❇️ Tiles](applications/building-materials/tiles.md)
+  * [🔌 Electronics](applications/electronics/README.md)
+    * [🔌 Switches](applications/electronics/switches.md)
