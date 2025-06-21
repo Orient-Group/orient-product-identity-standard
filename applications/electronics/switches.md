@@ -56,12 +56,7 @@ Used to define technical configurations for manufacturing, supply chain, and int
 
 > **Format:** `Major.Minor.Recipe`
 
-|               |                                                           |
-| ------------- | --------------------------------------------------------- |
-| **Component** | **Definition**                                            |
-| **Major**     | Interaction Type (relay, dimmer, etc.)                    |
-| **Minor**     | Smart Protocol (Wi-Fi, Zigbee, etc.)                      |
-| **Recipe**    | Feature Enhancements (backlight, energy monitoring, etc.) |
+<table><thead><tr><th width="188.57421875">Component</th><th>Definition</th></tr></thead><tbody><tr><td><strong>Major</strong></td><td>Interaction Type (relay, dimmer, etc.)</td></tr><tr><td><strong>Minor</strong></td><td>Smart Protocol (Wi-Fi, Zigbee, etc.)</td></tr><tr><td><strong>Recipe</strong></td><td>Feature Enhancements (backlight, energy monitoring, etc.)</td></tr></tbody></table>
 
 #### ✅ Major – Interaction Type
 
@@ -75,16 +70,15 @@ Used to define technical configurations for manufacturing, supply chain, and int
 
 #### ✅ Minor – Smart Type (Protocol)
 
-|                      |          |
-| -------------------- | -------- |
-| **Protocol**         | **Code** |
-| Non-Smart            | 1        |
-| Wi-Fi                | 2        |
-| Zigbee               | 3        |
-| Matter               | 4        |
-| RF (Radio Frequency) | 5        |
-| Bluetooth            | 6        |
-| Z-Wave               | 7        |
+| Protocol             | Code |
+| -------------------- | ---- |
+| Non-Smart            | 1    |
+| Wi-Fi                | 2    |
+| Zigbee               | 3    |
+| Matter               | 4    |
+| RF (Radio Frequency) | 5    |
+| Bluetooth            | 6    |
+| Z-Wave               | 7    |
 
 #### ✅ Recipe – Feature Enhancements
 
@@ -100,9 +94,4 @@ Used to define technical configurations for manufacturing, supply chain, and int
 
 ### 💡 Example Names
 
-| Product Name        | Build | Explanation                                                       |
-| ------------------- | ----- | ----------------------------------------------------------------- |
-| Frost 2 Glass White | –     | 2-gang non-smart glass switch from Natural Elements theme         |
-| Bolt 3 Flat Black   | 1.2.1 | 3-gang Wi-Fi relay with backlight from Mechanical Precision theme |
-| Sense 1 Slim Silver | 2.3.2 | 1-gang Zigbee dimmer with energy monitoring                       |
-| Breeze 4 Curve Gold | 4.4.4 | 4-gang Matter multi-function with full feature suite              |
+<table><thead><tr><th width="199.234375">Product Name</th><th width="94.640625">Build</th><th>Explanation</th></tr></thead><tbody><tr><td>Frost 2 Glass White</td><td>–</td><td>2-gang non-smart glass switch from Natural Elements theme</td></tr><tr><td>Bolt 3 Flat Black</td><td>1.2.1</td><td>3-gang Wi-Fi relay with backlight from Mechanical Precision theme</td></tr><tr><td>Sense 1 Slim Silver</td><td>2.3.2</td><td>1-gang Zigbee dimmer with energy monitoring</td></tr><tr><td>Breeze 4 Curve Gold</td><td>4.4.4</td><td>4-gang Matter multi-function with full feature suite</td></tr></tbody></table>
