@@ -1,8 +1,8 @@
-# 🔌 Switches
+# 🔌 Switches & Sockets
 
 ### 🧩 About Product
 
-Orient Smart Switches are part of the smart home ecosystem, enabling users to control lights and appliances with enhanced flexibility and design. Available in both **smart** (Wi-Fi, Zigbee, Matter, RF, etc.) and **non-smart** forms, the product range spans across aesthetic styles such as glass finish, push button, and touchscreen. This nomenclature ensures consistency in packaging, listings, ERP, and customer-facing platforms.
+Orient Smart Switches & Sockets are part of the smart home ecosystem, enabling users to control lights and appliances with enhanced flexibility and design. Available in both **smart** (Wi-Fi, Zigbee, Matter, RF, etc.) and **non-smart** forms, the product range spans across aesthetic styles such as glass finish, push button, and touchscreen. This nomenclature ensures consistency in packaging, listings, ERP, and customer-facing platforms.
 
 ***
 
@@ -60,12 +60,15 @@ Used to define technical configurations for manufacturing, supply chain, and int
 
 #### ✅ Major – Interaction Type
 
-| Interaction      | Code |
-| ---------------- | ---- |
-| Relay (On/Off)   | 1    |
-| Dimmer           | 2    |
-| Scene Controller | 3    |
-| Multi-Function   | 4    |
+| Interaction        | Code |
+| ------------------ | ---- |
+| Relay (On/Off)     | 1    |
+| Light Dimmer       | 2    |
+| Fan Dimmer         | 3    |
+| Curtain Controller | 4    |
+| Scene Controller   | 5    |
+| Multi-Function     | 6    |
+| Socket             | 7    |
 
 #### ✅ Minor – Smart Type (Protocol)
 
@@ -93,4 +96,4 @@ Used to define technical configurations for manufacturing, supply chain, and int
 
 ### 💡 Example Names
 
-<table><thead><tr><th width="199.234375">Product Name</th><th width="94.640625">Build</th><th>Explanation</th></tr></thead><tbody><tr><td>Frost 2 Glass White</td><td>–</td><td>2-gang non-smart glass switch from Natural Elements theme</td></tr><tr><td>Bolt 3 Flat Black</td><td>1.2.1</td><td>3-gang Wi-Fi relay with backlight from Mechanical Precision theme</td></tr><tr><td>Sense 1 Slim Silver</td><td>2.3.2</td><td>1-gang Zigbee dimmer with energy monitoring</td></tr><tr><td>Breeze 4 Curve Gold</td><td>4.4.4</td><td>4-gang Matter multi-function with full feature suite</td></tr></tbody></table>
+<table><thead><tr><th width="199.234375">Product Name</th><th width="94.640625">Build</th><th>Explanation</th></tr></thead><tbody><tr><td>Frost 2 Glass White</td><td>–</td><td>2-gang non-smart glass switch from Natural Elements theme</td></tr><tr><td>Bolt 3 Flat Black</td><td>1.2.1</td><td>3-gang Wi-Fi relay with backlight from Mechanical Precision theme</td></tr><tr><td>Sense 1 Slim Silver</td><td>2.3.2</td><td>1-gang Zigbee dimmer with energy monitoring</td></tr><tr><td>Breeze 4 Curve Gold</td><td>6.4.4</td><td>4-gang Matter multi-function with full feature suite</td></tr></tbody></table>
