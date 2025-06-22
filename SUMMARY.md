@@ -28,4 +28,5 @@
     * [🚿 Sanitary Fittings](applications/building-materials/sanitary-fittings.md)
     * [❇️ Tiles](applications/building-materials/tiles.md)
   * [🔌 Electronics](applications/electronics/README.md)
+    * [🧠 Control Panels & Gateways](applications/electronics/control-panels-and-gateways.md)
     * [🔌 Switches & Sockets](applications/electronics/switches-and-sockets.md)
