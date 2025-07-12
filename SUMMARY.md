@@ -30,6 +30,7 @@
   * [🔌 Electronics](applications/electronics/README.md)
     * [📷 CCTV Cameras](applications/electronics/cctv-cameras.md)
     * [🧠 Control Panels & Gateways](applications/electronics/control-panels-and-gateways.md)
+    * [🪟 Curtain Controllers](applications/electronics/curtain-controllers.md)
     * [🔒 Door Locks](applications/electronics/door-locks.md)
     * [📡 Sensors](applications/electronics/sensors.md)
     * [🔌 Switches & Sockets](applications/electronics/switches-and-sockets.md)
