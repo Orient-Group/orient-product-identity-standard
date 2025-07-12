@@ -1,10 +1,12 @@
 # 📷 CCTV Cameras
 
+### 🧩 About Product
+
 Closed-Circuit Television (CCTV) cameras are essential for modern security, offering surveillance, deterrence, and real-time monitoring. The OPIS standard provides a consistent naming system for classifying all types of CCTV cameras by resolution, design, smart capability, and feature set. This structure simplifies cataloging, comparison, and system integration across both smart and non-smart product lines.
 
 ***
 
-#### 📊 Naming Format
+### 📊 Standard Format
 
 > **\[Series Name] + \[Resolution] + \[Design] + \[Color] + \[Build Number]**
 
